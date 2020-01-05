@@ -73,7 +73,7 @@ def edit_entry(request, entry_id):
     """ Edit an existing entry """
     entry = Entry.objects.get(id=entry_id)
     topic = entry.topic
-    if topic.onwer != request.user:
+    if topic.owner != request.user:
         raise Http404
 
     if request.method != 'POST':
