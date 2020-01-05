@@ -28,3 +28,4 @@ These are the modules needed to run Learning Log:
 - [python3](https://www.python.org)
 - [Django](https://www.djangoproject.com/)
 - [SQLite](https://sqlite.org/index.html)
+- [django-bootstrap4](https://django-bootstrap4.readthedocs.io/en/latest/)
