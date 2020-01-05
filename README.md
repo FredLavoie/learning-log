@@ -1,6 +1,6 @@
 # learning-log
 
-Learning Log is available on Heroku at: <https://learing-log-fredlavoie.herokuapp.com/>
+Learning Log is available on Heroku at: <https://learning-log-fredlavoie.herokuapp.com/>
 
 Learning log is a full stack web application built using the the [Python](https://www.python.org) framework [Django](https://www.djangoproject.com/). The database used to store the data is [SQLite](https://sqlite.org/index.html).
 
