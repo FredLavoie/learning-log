@@ -1,5 +1,6 @@
 .DS_store
 .vscode/
+NOTES.md
 ll_env/
 __pycache__/
 *.sqlite3
